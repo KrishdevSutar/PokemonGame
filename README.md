@@ -2,7 +2,7 @@
 
 **A side project to meant ot resemble the classic game Pokemon built using OOP principles in Java.
 
-![logo](https://github.com/KrishdevSutar/PokemonGame/tree/master/PokemonGame/ScreenShots/MainScreen.PNG)
+![logo](https://github.com/KrishdevSutar/PokemonGame/ScreenShots/MainScreen.PNG)
 
 Inspiration
 
