@@ -2,9 +2,8 @@
 
 **A side project to meant ot resemble the classic game Pokemon built using OOP principles in Java.
 
-![logo](https://github.com/KrishdevSutar/PokemonGame/blob/master/ScreenShots/Startscreen.PNG)
-![logo](https://github.com/KrishdevSutar/PokemonGame/blob/master/ScreenShots/MainScreen.PNG)
-![logo](https://github.com/KrishdevSutar/PokemonGame/blob/master/ScreenShots/BattleScreen.PNG)
+![logo](https://github.com/KrishdevSutar/PokemonGame/blob/master/ScreenShots/Startscreen.PNG) ![logo](https://github.com/KrishdevSutar/PokemonGame/blob/master/ScreenShots/MainScreen.PNG)
+
 
 
 Inspiration
@@ -14,6 +13,8 @@ I have always wanted to create my own game so I took it upon myself to do it. I 
 What it does
 
 You play as a Pokemon Trainer and your goal is to beat all 7 trainers in this route.You will get a choice between three Pokemon: Charizard the Fire type, Blastoise the Water type, and Venasaur the Grass type. Each Pokemon has 4 attacks, choose wisely on hwo you wish to fight to because type advantage matters. Whoever health drop to zero first wins the battle. If your health drops to zero before your opponent, then you lose and you will have to start from the very beginning. Once you have won a battle, your health will reset to its orignal value. The grass contains wild Pokemon
+
+![logo](https://github.com/KrishdevSutar/PokemonGame/blob/master/ScreenShots/BattleScreen.PNG)
 
 How we built it
 
