@@ -11,6 +11,7 @@ What it does
 You play as a Pokemon Trainer and your goal is to beat all 7 trainers in this route.You will get a choice between three Pokemon: Charizard the Fire type, Blastoise the Water type, and Venasaur the Grass type. Each Pokemon has 4 attacks, choose wisely on hwo you wish to fight to because type advantage matters. Whoever health drop to zero first wins the battle. If your health drops to zero before your opponent, then you lose and you will have to start from the very beginning. Once you have won a battle, your health will reset to its orignal value. The grass contains wild Pokemon
 
 How we built it
+
 I used object-oriented programming in Java Eclipse to build a Player class, Pokemon class, and Opponent class where it stored the information pertaining to them and was designed with encapsulation and interfacing in mind. The GUI was done through the use of imported files like javax.swing and java.awt where the main screen(aka which the player interacts with by walking around) and the battle screen. The battle system was made by creating another screen which ran a new thread, seperate from the main thread running the main screen thus incoporating multi-threading.
 
 Challenges we ran into
