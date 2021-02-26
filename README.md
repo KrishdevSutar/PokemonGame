@@ -14,14 +14,14 @@ You play as a Pokemon Trainer and your goal is to beat all 7 trainers in this ro
 
 ![logo](https://github.com/KrishdevSutar/PokemonGame/blob/master/ScreenShots/BattleScreen.PNG)
 
-## How we built it ##
+## How I built it ##
 
 I used object-oriented programming in Java Eclipse to build a Player class, Pokemon class, and Opponent class where it stored the information pertaining to them and was designed with encapsulation and interfacing in mind. The GUI was done through the use of imported files like javax.swing and java.awt where the main screen(aka which the player interacts with by walking around) and the battle screen. The battle system was made by creating another screen which ran a new thread, seperate from the main thread running the main screen thus incoporating multi-threading.
 
-## Challenges we ran into ##
+## Challenges I ran into ##
 
 The battle screen was a major issue as it would infinity create screens when moving in the grass as the player was never intended to leave the grass area so assuming the condiont was always true. I had to set many sub conditions to help trigger battle screen only once till the screen was exited.
 
-## Accomplishments that we're proud of ##
+## Accomplishments that I'm proud of ##
 
 This entire project is something I am extremely pround of as it I had to learn many things from scratch and was able to produce a well-done result.
