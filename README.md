@@ -1,8 +1,8 @@
 # PokemonGame
 
-A side project to meant ot resemble the classic game Pokemon built using OOP principles in Java.
+**A side project to meant ot resemble the classic game Pokemon built using OOP principles in Java.
 
-<img src=“/master/PokemonGame/ScreenShots/MainScreen.PNG”>
+![logo](https://github.com/rachelwuuu/RUHacks-2020/blob/master/demoPics/ruhacks%20logo.PNG)<img src=“/master/PokemonGame/ScreenShots/MainScreen.PNG”>
 
 Inspiration
 
