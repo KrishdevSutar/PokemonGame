@@ -2,7 +2,7 @@
 
 A side project to meant ot resemble the classic game Pokemon built using OOP principles in Java.
 
-
+<img src=“/ScreenShots/MainScreen.PNG”>
 
 Inspiration
 
